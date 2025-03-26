@@ -1,3 +1,2 @@
-#chandima
-#wayamba university of sri lanka
-#239027
+name=str(input("enter your number"))
+print(name)
