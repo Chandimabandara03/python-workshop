@@ -1,6 +1,6 @@
 print("this is my first python programm")
 print("this is update")
-git init
+/git init
 git add .
 git commit -m "first commit"
 git branch -M main
